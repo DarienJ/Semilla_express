@@ -1,0 +1,6 @@
+//Se ponen las cosas que no quieres que se incluyan en github
+
+.env
+
+node_modules/
+
